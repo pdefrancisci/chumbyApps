@@ -1,0 +1,10 @@
+# Output SWF for Chumby
+-swf chumby.swf
+
+# Flash Player version supported by Chumby (IMPORTANT!)
+-swf-version 9
+
+-swf-header 320:240:12
+
+# Entry point
+-main Main
